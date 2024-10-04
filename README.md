@@ -9,14 +9,15 @@ It assists users in preparing files for ingestion in Retrieval-Augmented Generat
 
 This project will likely form part of a pipeline based approach to handle different types of pdfs in the future.
 
-This README provides step-by-step instructions for setting up and using the project on your local machine.
+![image](https://github.com/headstrongpete/pdfmd/blob/main/pdfmarkdown.png)
 
+This README provides step-by-step instructions for setting up and using the project on your local machine.
 
 ## Table of Contents
 - [Branches](#Branches)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Raising Issues](#Raising Issues)
+- [Issues](#Issues)
 - [License](#License)
 
 ## Branches
@@ -68,7 +69,7 @@ Open your terminal and run the following command to start the project applicatio
 3. Select Convert to initiate the transformation process.
 
 
-## Raising Issues
+## Issues
 
 If you encounter any issues, have suggestions, or want to report a bug, please visit the [Issues](https://github.com/headstrongpete/pdfmd/issues) section of the project repository and create a new issue. Provide detailed information about the problem you're facing, and I'll do my best to assist you.
 
